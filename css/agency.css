@@ -885,7 +885,7 @@ body {
     left:0px;
 }
 
-.3dvisor{
+.imagenresponsive{
     margin:0 auto;
     height:0px;
     width:70%; /*tomará el tamaño al 100% del #contenedor*/
@@ -893,7 +893,7 @@ body {
     position:relative;
 
 }
-.3dvisor iframe{
+.imagenresponsive iframe{
     position:absolute;
     height:70%;
     width:80%;
